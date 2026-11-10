@@ -12,3 +12,4 @@ Dataset: teaching_prices_messy.csv
 Note: AI assistance was used during preparation of this assignment.
 
 No use of grace hours.
+I have mentioned where I used AI
