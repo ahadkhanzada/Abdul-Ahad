@@ -29,3 +29,5 @@ Row	Field	Raw Value	Decision	Clean Value	Reason
 17	`price`	`1,250`	Correct	`109.0`	Text comma and typo fix (+6 PKR city spread).
 30	`price`	`9999`	Correct	`157.5`	Placeholder code; replaced using city offset.
 5	`price`	`NaN`	Correct	`206.0`	Missing price; filled using city offset.
+
+SNAPSHOT CODE: 9dd20532fc0840fd43f30e25df3f2bc627fa6df5
