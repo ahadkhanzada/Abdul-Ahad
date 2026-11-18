@@ -12,3 +12,6 @@ Observed [O] : Specifically, Sweetener D experienced the largest percentage incr
 Observed [O] : For each item, both the mean and median values confirm a consistent upward movement over the 12-week monitoring period.
 Explanation [E] : These observed price increases might reflect seasonal shifts in market supply or changing operational costs.
 Cause Claim [C] : Therefore, rising supply costs directly caused grocery buyers to pay higher prices in the retail market.
+
+snapshot code:
+cc8e8ea
